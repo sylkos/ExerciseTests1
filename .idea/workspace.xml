@@ -40,6 +40,12 @@
       </list>
     </option>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2190" />
+    <option name="y" value="263" />
+    <option name="width" value="1653" />
+    <option name="height" value="829" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -105,6 +111,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -175,7 +182,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2130" y="125" width="1653" height="829" extended-state="0" />
+    <frame x="2190" y="263" width="1653" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
